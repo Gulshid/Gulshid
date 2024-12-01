@@ -1,5 +1,4 @@
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3Ce6AK4_bqSodBsYyG9m6C&ust=1733118461174000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDgr8PvhYoDFQAAAAAdAAAAABAE">
-" width="500" >
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3Ce6AK4_bqSodBsYyG9m6C&ust=1733118461174000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDgr8PvhYoDFQAAAAAdAAAAABAE" width="500" >
 <h1 align="center">Hi 👋, I'm Gulshid Zada</h1>
 <h3 align="center">I'm Software Engineer(Full Stack Flutter developer) from Pakistan</h3>
 
