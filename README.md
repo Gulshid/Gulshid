@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="600" height="400" src="![image](https://github.com/user-attachments/assets/53f81cdc-56b2-4dfc-8393-1b135ccf5096)
+<img  src="![image](https://github.com/user-attachments/assets/53f81cdc-56b2-4dfc-8393-1b135ccf5096)
 ">
 <h1 align="center">Hi 👋, I'm Gulshid Zada</h1>
 <h3 align="center">I'm Software Engineer(Full Stack Flutter developer) from Pakistan</h3>
