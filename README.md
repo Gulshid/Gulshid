@@ -1,4 +1,4 @@
-<img width="800" height="400" src="https://github.com/Gulshid/Gulshid/blob/main/image.jpg.webp">
+<img width="800" height="300" src="https://github.com/Gulshid/Gulshid/blob/main/image.jpg.webp">
 
 <h1 align="center">Hi 👋, I'm Gulshid Zada</h1>
 <h3 align="center">I'm Software Engineer(Full Stack Flutter developer) from Pakistan</h3>
