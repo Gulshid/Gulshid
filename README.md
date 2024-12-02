@@ -1,4 +1,5 @@
-<img align="center" alt="coding" width="600" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1tFFXwedtg9qr879eKQ53U&ust=1733212810105000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiMzYbPiIoDFQAAAAAdAAAAABAE">
+<img align="center" alt="coding" width="600" height="400" src="![image](https://github.com/user-attachments/assets/53f81cdc-56b2-4dfc-8393-1b135ccf5096)
+">
 <h1 align="center">Hi 👋, I'm Gulshid Zada</h1>
 <h3 align="center">I'm Software Engineer(Full Stack Flutter developer) from Pakistan</h3>
 
