@@ -1,4 +1,4 @@
-<img src="![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/9166bf5d-9530-48f0-a338-a3489b6d32bb)
+<a href="![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/ed82aef3-ce1f-43aa-aed5-f5c004ffbf00)
 ">
 <h1 align="center">Hi 👋, I'm Gulshid Zada</h1>
 <h3 align="center">I'm Software Engineer(Full Stack Flutter developer) from Pakistan</h3>
