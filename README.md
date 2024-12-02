@@ -1,5 +1,5 @@
 [![MasterHead](![Banner](https://raw.githubusercontent.com/<your-username>/profile-assets/main/<image-file-name>.png)
-)}
+)]
 <h1 align="center">Hi 👋, I'm Gulshid Zada</h1>
 <h3 align="center">I'm Software Engineer(Full Stack Flutter developer) from Pakistan</h3>
 <img align="right" alt="coding"  
