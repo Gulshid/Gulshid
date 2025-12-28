@@ -107,57 +107,59 @@ const hacker = new EthicalHacker();
 await hacker.hunt_vulnerabilities();
 ```
 
-# 👋 Hi, I'm Gulshid Zada
+<br clear="right"/>
 
-### 🚀 Software Engineer | Full-Stack Flutter Developer 🇵🇰
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gulshid&style=flat-square&color=blue)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Gulshid%20Zada&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🚀%20Software%20Engineer%20|%20Full-Stack%20Flutter%20Developer%20🇵🇰&descAlignY=55&descSize=20"/>
 
----
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🔭 Currently working on **Flutter Development**
-- 🌱 Learning **Advanced Flutter & Firebase**
-- 💬 Ask me about **Flutter, Dart, Firebase, UI/UX**
-- 📫 Email: **gulshidzada4@gmail.com**
-- ⚡ Fun fact: **I learn by building projects**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Flutter+Developer;Mobile+App+Developer;Firebase+Backend;UI%2FUX+Enthusiast;Learning+Every+Day" />
+
+</div>
 
 ---
 
-## 🛠️ Skills
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
-### 📱 Mobile & Backend
-- Flutter
-- Dart
-- Firebase
+## 👋 About Me
 
-### 🌐 Web
-- HTML
-- CSS
-- JavaScript
+```dart
+class Developer {
+  final String name = "Gulshid Zada";
+  final String role = "Software Engineer (Full-Stack Flutter Developer)";
+  final String location = "Pakistan 🇵🇰";
 
-### 🧰 Tools
-- Git
-- GitHub
-- VS Code
+  final List<String> skills = [
+    "Flutter & Dart",
+    "Firebase",
+    "REST APIs",
+    "UI/UX Design",
+    "Mobile & Web Apps"
+  ];
+}
+🔭 Working on Flutter Development
 
----
+🌱 Learning Advanced Flutter & Firebase
 
-## 📊 GitHub Stats
+💬 Ask me about Flutter, Dart, Firebase
 
-![Gulshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gulshid&show_icons=true&theme=default)
+📫 Email gulshidzada4@gmail.com
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshid&layout=compact)
+🎯 Specialization Areas
+<table> <tr> <td align="center" width="25%"> <b>Flutter Apps</b><br/> Android | iOS | Web </td> <td align="center" width="25%"> <b>Firebase</b><br/> Auth | Firestore </td> <td align="center" width="25%"> <b>UI / UX</b><br/> Clean Design </td> <td align="center" width="25%"> <b>Full Stack</b><br/> Frontend + Backend </td> </tr> </table>
+🛠️ Tech Stack
 
----
 
-## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/gulshid-zada  
-- 📧 Gmail: gulshidzada4@gmail.com
 
----
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Gulshid&show_icons=true&theme=radical"/>
+🤝 Connect With Me
 
-⭐ Thanks for visiting my profile!
 
+
+<img src="https://komarev.com/ghpvc/?username=Gulshid&style=for-the-badge&color=0AFFEF"/> ```
