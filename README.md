@@ -31,16 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulshid&" alt="gulshid" /></p> -->
 
-mg src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=MrWhite4939&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🔐%20Offensive%20Security%20Specialist%20|%20Penetration%20Tester%20|%20Bug%20Hunter%20🔐&descAlignY=55&descSize=20&descAlign=50"/>
-
-</div>
-
-<div align="center">
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Penetration+Testing;Security+Research;Exploit+Development;Red+Team+Operations;Bug+Hunter" alt="Typing SVG" />
-
-</div>
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
