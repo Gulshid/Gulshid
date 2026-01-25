@@ -35,7 +35,7 @@
 <!-- Glowing Divider -->
 
 
-<br clear="right"/>
+<!-- <br clear="right"/>
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/> -->
 
 ## 👋 About Me
 
@@ -91,3 +91,223 @@ class Developer {
 
 
 <img src="https://komarev.com/ghpvc/?username=Gulshid&style=for-the-badge&color=0AFFEF"/> ```
+
+<!-- Header with Wave Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Gulshid%20Zada&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🚀%20Software%20Engineer%20|%20Full-Stack%20Flutter%20Developer%20🇵🇰&descAlignY=55&descSize=20"/>
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Flutter+%26+Dart+Developer+💙;Mobile+App+Architect+📱;Firebase+Backend+Specialist+🔥;UI%2FUX+Enthusiast+🎨;Open+Source+Contributor+🌟;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gulshid&style=for-the-badge&color=0AFFEF&label=PROFILE+VIEWS"/>
+</div>
+
+---
+
+<!-- About Me Section with Animated GIF -->
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+
+## 👨‍💻 About Me
+
+```dart
+class Developer {
+  final String name = "Gulshid Zada";
+  final String role = "Software Engineer";
+  final String location = "Pakistan 🇵🇰";
+  
+  final Map<String, dynamic> currentFocus = {
+    'learning': ['Advanced Flutter', 'Firebase'],
+    'building': ['Mobile Apps', 'Web Apps'],
+    'exploring': ['Cloud Architecture', 'DevOps']
+  };
+  
+  void sayHi() {
+    print("Thanks for visiting! Let's build something amazing together!");
+  }
+}
+```
+
+- 🔭 Currently working on **Flutter Mobile & Web Applications**
+- 🌱 Learning **Advanced Flutter Architecture & Firebase**
+- 👯 Looking to collaborate on **Open Source Flutter Projects**
+- 💬 Ask me about **Flutter, Dart, Firebase, UI/UX Design**
+- 📫 Reach me at **gulshidzada4@gmail.com**
+- ⚡ Fun fact: **I debug with print statements and I'm not ashamed!**
+
+<br clear="right"/>
+
+---
+
+## 🎯 Specialization Areas
+
+<div align="center">
+  
+| 📱 Mobile Development | 🔥 Backend & Cloud | 🎨 Design | 🚀 Full Stack |
+|:---:|:---:|:---:|:---:|
+| Android & iOS Apps | Firebase & Cloud | Material Design | Frontend + Backend |
+| Cross-Platform | Authentication | Custom UI/UX | REST APIs |
+| State Management | Database Design | Responsive Design | Integration |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
+
+### Design Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gulshid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0AFFEF&icon_color=0AFFEF&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gulshid&theme=radical&hide_border=true&background=0D1117&stroke=0AFFEF&ring=0AFFEF&fire=FF6B6B&currStreakLabel=0AFFEF"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0AFFEF&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gulshid&theme=react-dark&hide_border=true&bg_color=0D1117&color=0AFFEF&line=0AFFEF&point=FFFFFF"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gulshid&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gulshid&bg_color=0D1117&color=0AFFEF&line=0AFFEF&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gulshid&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=0AFFEF&icon_color=0AFFEF&text_color=FFFFFF)](https://github.com/Gulshid/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gulshid&repo=another-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=0AFFEF&icon_color=0AFFEF&text_color=FFFFFF)](https://github.com/Gulshid/another-repo)
+
+</div>
+
+> 💡 **Note:** Replace `your-repo-name` and `another-repo` with your actual repository names
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulshid-zada)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulshidzada4@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gulshid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> Connect your blog RSS feed to automatically show your latest posts!
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=0affef&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+</div>
+
+> Replace `YOUR_SPOTIFY_ID` with your actual Spotify ID
+
+---
+
+## 💡 A Quote I Live By
+
+<div align="center">
+
+### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  
+![Snake animation](https://github.com/Gulshid/Gulshid/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+</div>
+
+---
+
+<div align="center">
+  
+### Show some ❤️ by starring some of my repositories!
+
+</div>
