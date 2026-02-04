@@ -1,128 +1,133 @@
-```
-   ___       _     _     _     _   ____           _       
-  / _ \_   _| |___| |__ (_) __| | |_  /__ _  __ _| | __ _ 
- | | | | | | / __| '_ \| |/ _` |  / // _` |/ _` | |/ _` |
- | |_| | |_| \__ \ | | | | (_| | / /| (_| | (_| | | (_| |
-  \___/ \__,_|___/_| |_|_|\__,_|/___|\__,_|\__,_|_|\__,_|
-                                                           
-         Full Stack Flutter Developer • Software Engineer
-```
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Pakistan-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge" />
-</p>
+# 👋 Hi, I'm Gulshid Zada
 
-<p align="center">
-  <a href="mailto:gulshidzada4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gulshid-zada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Gulshid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### Full Stack Flutter Developer | Software Engineer 🇵🇰
+
+[![Email](https://img.shields.io/badge/Email-gulshidzada4%40gmail.com-red?style=flat-square&logo=gmail)](mailto:gulshidzada4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/gulshid-zada)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Gulshid)
+
+</div>
 
 ---
 
-### 👨‍💻 Who Am I?
+## 💫 About Me
 
 ```dart
-class Developer {
-  String name = "Gulshid Zada";
-  String role = "Software Engineer";
-  List<String> skills = [
-    "Flutter Development",
-    "Mobile Apps (Android & iOS)",
-    "Firebase Backend",
-    "UI/UX Design"
-  ];
-  
-  void introduce() {
-    print("Building beautiful, functional mobile apps 📱");
-    print("Passionate about clean code and user experience 🎨");
-    print("Always learning, always growing 🚀");
-  }
-}
+final developer = {
+  'name': 'Gulshid Zada',
+  'role': 'Software Engineer',
+  'location': 'Pakistan 🇵🇰',
+  'email': 'gulshidzada4@gmail.com',
+  'interests': ['Mobile Development', 'Cloud Architecture', 'UI/UX Design'],
+  'currentlyLearning': ['Advanced Flutter', 'Firebase', 'DevOps'],
+};
+```
+
+🚀 Passionate about building scalable mobile applications  
+🔥 Experienced in cross-platform development with Flutter  
+💡 Always exploring new technologies and best practices  
+⚡ Fun fact: I debug with print statements and I'm not ashamed!
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages**
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Frameworks & Technologies**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### **Specializations**
+- 📱 **Mobile Development:** Android & iOS native apps, Cross-platform solutions
+- 🎨 **UI/UX Design:** Material Design, Custom animations, Responsive layouts
+- 🔧 **State Management:** Provider, Riverpod, Bloc pattern
+- 🔥 **Backend Services:** Firebase Auth, Firestore, Cloud Functions
+- 🌐 **API Integration:** RESTful APIs, GraphQL
+- 💾 **Databases:** SQLite, Firestore, Hive
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gulshid&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshid&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gulshid&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Mobile Applications
+- **E-commerce App** - Full-stack shopping application with Firebase backend
+- **Social Media Platform** - Real-time messaging and content sharing
+- **Task Management** - Productivity app with local and cloud sync
+
+### 🔧 Open Source Contributions
+- Contributing to Flutter community packages
+- Building custom widgets and utilities
+- Sharing knowledge through code examples
+
+> 💡 *Check out my repositories below to see more of my work!*
+
+---
+
+## 📈 Professional Experience
+
+**Mobile Developer** | Freelance  
+*Building custom mobile solutions for clients worldwide*
+- Developed 10+ production-ready mobile applications
+- Implemented CI/CD pipelines for automated testing and deployment
+- Collaborated with cross-functional teams using Agile methodologies
+
+---
+
+## 🎓 Learning Journey
+
+```
+Currently Exploring:
+├── Advanced Flutter Patterns
+├── Cloud Architecture (AWS, GCP)
+├── DevOps & CI/CD
+├── Machine Learning Basics
+└── System Design
 ```
 
 ---
 
-### 🔧 Technology Arsenal
+## 💬 Let's Connect!
 
-<table>
-<tr>
-<td width="50%">
+I'm always interested in collaborating on exciting projects or discussing new opportunities!
 
-**Frontend**
-- Flutter & Dart
-- Material Design
-- Responsive UI
-- Custom Animations
-- State Management
-
-</td>
-<td width="50%">
-
-**Backend & Tools**
-- Firebase Suite
-- RESTful APIs
-- Git & GitHub
-- CI/CD Pipelines
-- Agile Methodology
-
-</td>
-</tr>
-</table>
-
-**Core Competencies**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- 📧 **Email:** [gulshidzada4@gmail.com](mailto:gulshidzada4@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/gulshid-zada](https://linkedin.com/in/gulshid-zada)
+- 🐦 **Twitter:** [@gulshidzada](https://twitter.com/gulshidzada)
+- 🌐 **Portfolio:** Coming Soon!
 
 ---
 
-### 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gulshid&show_icons=true&theme=vue&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshid&layout=compact&theme=vue&hide_border=true"/>
-</p>
+### ⭐ If you find my work helpful, consider giving a star!
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gulshid&theme=vue&hide_border=true" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Gulshid&color=58A6FF&style=flat-square&label=Profile+Views)
 
----
+**Made with ❤️ by Gulshid Zada**
 
-### 🎯 What I'm Up To
-
-- 🔨 Building production-ready mobile applications
-- 📚 Deep diving into advanced Flutter patterns
-- 🌩️ Exploring cloud architecture and microservices
-- 🤝 Open to collaborating on innovative projects
-- 💡 Sharing knowledge with the developer community
-
----
-
-### 📫 Let's Connect
-
-I'm always interested in new opportunities and collaborations!
-
-**Email:** gulshidzada4@gmail.com  
-**LinkedIn:** [linkedin.com/in/gulshid-zada](https://linkedin.com/in/gulshid-zada)  
-**Location:** Pakistan 🇵🇰
-
-> *"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gulshid&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <sub>⭐ Star my repos if you find them helpful • 🍴 Fork to contribute • 📬 Reach out anytime!</sub>
-</p>
+</div>
