@@ -49,10 +49,13 @@ Backend & Database
 
 
 </div>
-<!-- Snake Animation --><div align="center">
-https://github.com/Gulshid/Gulshid/blob/output/github-contribution-grid-snake-dark.svg
+<!-- <!-- Snake Animation -->
+<!-- <div align="center"> -->
+<!-- https://github.com/Gulshid/Gulshid/blob/output/github-contribution-grid-snake-dark.svg
 
-</div><!-- Footer Wave --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70"/> </div>
+<!-- </div>  -->
+<!-- Footer Wave -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70"/> </div>
 <div align="center">
 Show some ❤️ by starring some of my repositories!
 </div>
