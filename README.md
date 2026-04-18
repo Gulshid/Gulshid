@@ -46,11 +46,7 @@ Backend & Database
 <!-- Keep your existing GitHub stats and other sections from the previous design --><br clear="right"/>
 📊 GitHub Statistics
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gulshid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0AFFEF&icon_color=0AFFEF&text_color=FFFFFF"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gulshid&theme=radical&hide_border=true&background=0D1117&stroke=0AFFEF&ring=0AFFEF&fire=FF6B6B&currStreakLabel=0AFFEF"/> </div><div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0AFFEF&text_color=FFFFFF"/> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gulshid&theme=react-dark&hide_border=true&bg_color=0D1117&color=0AFFEF&line=0AFFEF&point=FFFFFF"/> </div>
-<!-- 🤝 Connect With Me
-<div align="center">
-https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white -->
+
 
 </div>
 <!-- Snake Animation --><div align="center">
